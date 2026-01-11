@@ -9,22 +9,10 @@ I'm a full-stack developer who loves turning complex logic into clean, scalable 
 - 🛠️ Debugging, Deployment & DevOps (Git, npm, Vercel)
 - 📄 Writing clean documentation & professional communication
 
-## 🧩 Projects I Love
-- Admin dashboards that *actually* make management easier
-- Patient & user management systems with intuitive workflows
-- Real-world apps that balance speed, security, and style
-
-## 🧪 Currently Exploring
-- Tailwind CSS & Framer Motion for smoother UI
-- Firebase & Flutter for cross-platform magic
-- Smarter ways to optimize code and deployment pipelines
-
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayushman-037379264/)
-- 🧠 [Portfolio](https://portfoliooooooooooo.netlify.app/)
 - 📬 tiwariayushman847@gmail.com
 
----
 
 > 💬 “Code is poetry—except mine has hover effects and error handling.”
 
